@@ -3,7 +3,7 @@
 </div>  
   
 
-## <div align="center">I'm Hasan Çağlar Muradoğlu, Computer Science and Engineering senior grade student at Yeditepe Univesity. 👨‍💻 </div>  
+## <div align="center">I'm Hasan Çağlar Muradoğlu, Computer Science and Engineering senior grade student at Yeditepe Univesity. </div>  
 
 <div align="center">
                   
@@ -14,46 +14,16 @@
     
 </div>
   
-### <div align="center">[Visit my website](https://hsnmrdgl.github.io/)</div>  
+  
+### <div align="center"><code>[🌐 Visit my website](https://hsnmrdgl.github.io/)</code></div>  
   
 
 <br/>
 
 
-## <div align="center"> Github Status </div>
-
-<p align="center">
-  <a align="center"  href="https://hsnmrdgl.github.io/">
-    <img align="center"  src="https://github-profile-trophy.vercel.app/?username=hsnmrdgl&column=7&include_all_commits=true&count_private=true&show_icons=true&theme=gruvbox&margin-w=15"> 
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://hsnmrdgl.github.io/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hsnmrdgl&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&layout=compact" alt="hsnmrdgl" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://hsnmrdgl.github.io/">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hsnmrdgl&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" alt="hsnmrdgl" />
-  </a>
-</p>
-
-<p align="center">
-<a href="https://hsnmrdgl.github.io/">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hsnmrdgl&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" alt="hsnmrdgl" />
-</a>
-</p>
-
-
-<br/>  
-
-
-## <div align="center"> Languages & Frameworks & Tools </div>
+# <div align="center">👨‍💻  Languages & Frameworks & Tools 👨‍💻 </div>
 
 <div align="center">
-  
   
   <code>![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)</code>
   <code>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</code>
@@ -91,7 +61,40 @@
   <code>![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)</code>
   <code>![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)</code>
   <code>![OverLeaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)</code>
-  <code>![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)</code>
-  
+  <code>![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)</code> 
    
 </div>
+
+
+<br/>
+
+
+# <div align="center">⚡ Github Status ⚡</div>
+
+<p align="center">
+  <a align="center"  href="https://hsnmrdgl.github.io/">
+    <img align="center"  src="https://github-profile-trophy.vercel.app/?username=hsnmrdgl&column=7&include_all_commits=true&count_private=true&show_icons=true&theme=gruvbox&margin-w=15"> 
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://hsnmrdgl.github.io/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hsnmrdgl&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&layout=compact" alt="hsnmrdgl" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://hsnmrdgl.github.io/">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hsnmrdgl&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" alt="hsnmrdgl" />
+  </a>
+</p>
+
+<p align="center">
+<a href="https://hsnmrdgl.github.io/">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=hsnmrdgl&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" alt="hsnmrdgl" />
+</a>
+</p>
+
+
+<br/>  
+
