@@ -3,7 +3,7 @@
 </div>  
   
 
-## <div align="center">I'm Hasan Çağlar Muradoğlu, Computer Science and Engineering senior grade student at Yeditepe Univesity. </div>  
+## <div align="center">I'm Hasan Çağlar Muradoğlu, Computer Science and Engineering senior grade student at Yeditepe University. </div>  
 
 <div align="center">
                   
