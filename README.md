@@ -3,7 +3,7 @@
 </div>  
   
 
-## <div align="center">I'm Hasan Çağlar Muradoğlu, Computer Science and Engineering senior grade student at Yeditepe University. </div>  
+## <div align="center">I'm Hasan Çağlar Muradoğlu <br>🎓 Computer Science and Engineering Graduate from Yeditepe University <br>👨‍💻 Junior Cloud Engineer. </div>  
 
 <div align="center">
                   
@@ -21,7 +21,7 @@
 <br/>
 
 
-# <div align="center">👨‍💻  Languages & Frameworks & Tools 👨‍💻 </div>
+## <div align="center">👨‍💻  Languages & Frameworks & Tools 👨‍💻 </div>
 
 <div align="center">
   
@@ -69,7 +69,7 @@
 <br/>
 
 
-# <div align="center">⚡ Github Status ⚡</div>
+## <div align="center">⚡ Github Status ⚡</div>
 
 <p align="center">
   <a align="center"  href="https://hsnmrdgl.github.io/">
