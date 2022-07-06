@@ -3,7 +3,7 @@
 </div>  
   
 
-## <div align="center">I'm Hasan Çağlar Muradoğlu <br>🎓 Computer Science and Engineering Graduate from Yeditepe University <br>👨‍💻 Junior Cloud Engineer. </div>  
+## <div align="center">I'm Hasan Çağlar Muradoğlu <br>🎓 Computer Science and Engineering Graduate from Yeditepe University <br>👨‍💻 Computer Engineer. </div>  
 
 <div align="center">
                   
