@@ -8,10 +8,7 @@
 <div align="center">
                   
   <code><a href="https://www.linkedin.com/in/hcaglarmuradoglu1/" target="blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a></code>
-  <code><a href="https://www.hackerrank.com/hsnmrdgl" target="blank" title="HackerRank">![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a></code>
-  <code><a href="https://instagram.com/hsnmrdgl" target="blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a></code>
-  <code><a href="https://twitter.com/hsnmrdgl" target="blank">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a></code>
-    
+  <code><a href="https://www.hackerrank.com/hsnmrdgl" target="blank" title="HackerRank">![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a></code>  
 </div>
   
   
@@ -64,12 +61,3 @@
   <code>![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)</code> 
    
 </div>
-<p align="center">
-<a href="https://hsnmrdgl.github.io/">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hsnmrdgl&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" alt="hsnmrdgl" />
-</a>
-</p>
-
-
-<br/>  
-
