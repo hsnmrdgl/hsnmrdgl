@@ -64,31 +64,6 @@
   <code>![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)</code> 
    
 </div>
-
-
-<br/>
-
-
-## <div align="center">⚡ Github Status ⚡</div>
-
-<p align="center">
-  <a align="center"  href="https://hsnmrdgl.github.io/">
-    <img align="center"  src="https://github-profile-trophy.vercel.app/?username=hsnmrdgl&column=7&include_all_commits=true&count_private=true&show_icons=true&theme=gruvbox&margin-w=15"> 
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://hsnmrdgl.github.io/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hsnmrdgl&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&layout=compact" alt="hsnmrdgl" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://hsnmrdgl.github.io/">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hsnmrdgl&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" alt="hsnmrdgl" />
-  </a>
-</p>
-
 <p align="center">
 <a href="https://hsnmrdgl.github.io/">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hsnmrdgl&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" alt="hsnmrdgl" />
